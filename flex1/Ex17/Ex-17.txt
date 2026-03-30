@@ -1,0 +1,12 @@
+تمرين 17
+
+اعمل 3 boxes في صف.
+
+المطلوب:
+
+كل box له width: 200px
+أضف padding و border
+لاحظ الحجم
+ثم أضف:
+box-sizing: border-box
+لاحظ الفرق

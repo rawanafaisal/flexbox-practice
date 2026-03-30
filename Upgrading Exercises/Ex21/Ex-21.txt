@@ -1,0 +1,12 @@
+تمرين 21 — flex: 1
+
+اعمل صف فيه:
+
+Logo
+Search
+Profile
+
+المطلوب:
+
+Logo و Profile بحجمهم الطبيعي
+Search يأخذ كل المساحة الباقية

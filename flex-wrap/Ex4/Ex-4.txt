@@ -1,0 +1,13 @@
+تمرين 4
+
+اعمل gallery بسيطة فيها 10 صور وهمية أو مربعات.
+
+المطلوب:
+
+الصور تلتف تلقائيًا
+كل صورة عرضها 100px
+تكون الصفوف مرتبة ومنظمة
+جرب:
+justify-content: flex-start
+justify-content: center
+justify-content: space-between
