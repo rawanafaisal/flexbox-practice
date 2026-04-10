@@ -1,11 +1,31 @@
-تمرين 3
+Exercise 3 — Navbar Layout
 
-اعمل مجموعة أزرار مثل:
-HTML CSS JavaScript Git GitHub Flexbox
+Create a simple navigation bar that contains:
 
-المطلوب:
+A logo (text is fine)
+3 navigation links (e.g. Home, About, Contact)
+A login button
+Requirements:
+All elements should be in one horizontal row
+The logo should be aligned to the left
+The navigation links should be in the center
+The button should be aligned to the right
+All items should be vertically aligned (same level)
+Add proper spacing between elements
+Add padding to the navbar to make it visually comfortable
+Keep the design clean and simple
+Focus:
 
-تظهر بجانب بعض
-إذا ضاقت المساحة تلتف
-يكون بينها فراغ أفقي وعمودي
-الأزرار لا تتمدد بعرض كبير
+Use Flexbox to control:
+
+layout (left / center / right)
+vertical alignment
+spacing
+💬 Note (important for you)
+
+You’re doing this exactly right:
+
+HTML + CSS + Flexbox first
+THEN JavaScript later
+
+This is the correct path 🔥

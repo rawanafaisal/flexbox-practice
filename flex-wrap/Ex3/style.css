@@ -2,17 +2,43 @@
 	margin:0;
 	box-sizing: border-box;
 }
-
+body{
+	background: peachpuff;
+}
 .container{
-display:flex;
-  justify-content: space-between;
+  display: flex;
   align-items: center;
+  background: rosybrown;
+  padding: 8px;
+}
+.logo{
+	color:white;
 }
 
 .links{
-	display: flex;
-	gap: 20px;
+  display: flex;
+  gap: 20px;
+  margin: 0 auto;
 }
-ul {
-	list-style: none;
+
+a:link {
+      text-decoration: none;
+
+}
+.links a {
+	color: white;
+}
+
+button{
+background: peachpuff;
+border: none;
+text-decoration: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
 }
