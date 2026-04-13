@@ -1,0 +1,31 @@
+body{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	border-radius: 12px;
+	box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+	background: beige;
+}
+.container {
+	width: 500px;
+	background: peachpuff;
+	display:flex;
+	flex-wrap: wrap;
+		border-radius: 12px;
+	box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+}
+
+.box{
+	width: 150px;
+	height: 100px;
+	background: rosybrown;
+	margin: 5px;
+  border-radius: 12px;
+	  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.container div:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 8px 18px rgba(0, 0, 0, 0.15);
+}
