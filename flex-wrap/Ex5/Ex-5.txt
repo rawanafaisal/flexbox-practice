@@ -1,9 +1,9 @@
-تمرين 5
+Exercise 5
 
-اعمل container عرضه 500px وفيه 5 boxes.
+Create a container with a width of 500px and place 5 boxes inside it.
 
-المطلوب:
+Requirements:
 
-نسخة بدون wrap
-نسخة مع wrap
-لاحظ الفرق فقط
+Make one version without flex-wrap
+Make another version with flex-wrap
+Observe the difference between the two versions only

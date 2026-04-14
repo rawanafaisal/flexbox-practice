@@ -1,9 +1,9 @@
-تمرين 7
+Exercise 7: Aligning Items to the Right
 
-اعمل 3 عناصر داخل container.
+Create a container with 3 items inside.
 
-المطلوب:
+Requirements:
 
-في صف أفقي
-في اليمين
-في المنتصف عموديًا
+Display them in a horizontal row
+Align them to the right
+Center them vertically within the container
