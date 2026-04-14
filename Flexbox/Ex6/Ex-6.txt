@@ -1,8 +1,8 @@
-تمرين 6
+Exercise 6: Centering an Element
 
-اعمل box كبير وفيه عنصر واحد فقط.
+Create a large container box with only one element inside it.
 
-المطلوب:
+Requirements:
 
-حطه في النصف تمامًا
-أفقيًا وعموديًا
+Place the element exactly in the center
+Center it horizontally and vertically
