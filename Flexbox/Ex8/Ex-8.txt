@@ -1,9 +1,9 @@
-تمرين 8
+Exercise 8: Vertical Distribution with Equal Spacing
 
-اعمل 4 عناصر داخل container ارتفاعه 300px.
+Create a container with 4 items inside. The container height should be 300px.
 
-المطلوب:
+Requirements:
 
-يكونوا في عمود
-في المنتصف أفقيًا
-موزعين عموديًا بمسافات متساوية
+Display the items in a vertical column
+Center them horizontally
+Distribute them vertically with equal spacing
