@@ -1,9 +1,8 @@
-تمرين 10
+Exercise 10: Flexible Middle Item
 
-اعمل 3 عناصر داخل container.
+Create a container with 3 items inside.
 
-المطلوب:
-
-الأول عرض ثابت 100px
-الثاني يأخذ كل المساحة المتبقية
-الثالث عرض ثابت 100px
+🎯 Requirements:
+The first item has a fixed width of 100px
+The second item takes all the remaining space
+The third item has a fixed width of 100px
