@@ -1,9 +1,8 @@
-تمرين 9
+Exercise 9: Testing align-items vs align-self
 
-اعمل 3 مربعات.
+Create 3 square items inside a container.
 
-المطلوب:
-
-الثاني فقط أطول من الباقي
-اختبر align-items
-ثم غيّر العنصر الثاني فقط باستخدام align-self
+🎯 Requirements:
+The second item only should be taller than the others
+First, test alignment using align-items on the container
+Then, change only the second item using align-self
