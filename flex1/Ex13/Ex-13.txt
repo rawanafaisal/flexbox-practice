@@ -1,9 +1,8 @@
-تمرين 13
+Exercise 13: Understanding Padding
 
-اعمل مربع فيه نص قصير.
+Create a box with a short text inside.
 
-المطلوب:
-
-أعطه padding واضح من كل الجهات
-ثم جرب تقلل وتزيد الـ padding
-الهدف: تلاحظ كيف المسافة الداخلية تتغير
+🎯 Requirements:
+Add clear padding from all sides
+Then experiment by increasing and decreasing the padding
+The goal is to observe how the inner spacing changes
