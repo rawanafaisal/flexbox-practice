@@ -1,0 +1,34 @@
+/** middling the whole content**/
+body{
+	margin: 0;
+	height: 100vh;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	font-family: 'Poppins', sans-serif;
+}
+
+.container{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	gap:3px; 
+	box-shadow: 0 8px 20px rgba(0, 0, 0, 0.08);
+}
+.item{
+	width: 50px;
+	height: 50px;
+	background: powderblue;
+	color:black;
+	/**margin:3px; if gap used in the container the parent no need to use margin:3px in the item **/
+	text-align: center;
+	border-radius: 5px;
+		/** middling the numbers inside the square**/
+		display: flex; 
+	justify-content: center; 
+	align-items: center;
+}
+
+.container .item:nth-child(3){
+	order: -1;
+}

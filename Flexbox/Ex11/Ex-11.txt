@@ -1,9 +1,8 @@
-تمرين 11
+Exercise 11: Reordering Items with Flexbox
 
-اعمل container فيه 5 عناصر.
+Create a container with 5 items inside.
 
-المطلوب:
-
-رتبهم أفقيًا
-اجعل العنصر الثالث يظهر أول عنصر
-بدون تغيير الـ HTML
+🎯 Requirements:
+Display them horizontally
+Make the third item appear as the first item
+Do not change the HTML
