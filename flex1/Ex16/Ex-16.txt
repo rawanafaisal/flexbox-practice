@@ -1,13 +1,13 @@
-تمرين 16
+Exercise 16: Clean Card Layout
 
-اعمل card فيها:
+Create a card that contains:
 
-عنوان
-وصف
-زر
+A title
+A description
+A button
+🎯 Requirements:
+Use padding inside the card
+Use margin-top to space between elements
+Keep the design clean and organized
 
-المطلوب:
 
-استخدم padding داخل الكرت
-استخدم margin-top بين العناصر
-خلي الشكل مرتب بدون عشوائية

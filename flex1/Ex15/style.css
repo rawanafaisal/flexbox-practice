@@ -1,0 +1,16 @@
+body {
+	background: lightcyan;
+}
+
+button {
+	background: royalblue;
+	color: white;
+	border: none;          /* fix */
+	border-radius: 6px;
+	padding: 10px 20px;    /* slightly better spacing */
+	cursor: pointer;       /* UX improvement */
+font-weight: 500;
+}
+button:hover {
+	background: darkblue;
+}

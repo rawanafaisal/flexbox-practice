@@ -1,0 +1,30 @@
+body{
+	display: flex;
+	justify-content: center;
+}
+.card {
+	background: lightgray;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: flex-start;
+		margin: 0 auto;
+	border-radius: 12px; 
+	box-shadow: 0 8px 20px rgba(0, 0, 0, 0.08); 
+	padding: 16px; 
+	width: 220px; 
+	box-sizing: border-box;
+}
+
+h5{
+		margin-top: 10px;
+	margin-bottom: 0;
+}
+
+p{
+	margin-top: 8px;
+}
+
+button{
+	margin-top: 15px;
+}

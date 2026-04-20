@@ -1,9 +1,26 @@
-تمرين 12
+Exercise 12: Equal Height Cards with Bottom-Aligned Button
+Create a row with 3 cards.
 
-اعمل 3 كروت داخل صف.
+🎯 Requirements:
 
-المطلوب:
 
-كل الكروت نفس الارتفاع
-الزر داخل كل كرت يكون بأسفل الكرت
-النصوص تختلف بالطول
+All cards must have the same height
+
+
+The button inside each card should be aligned to the bottom
+
+
+The text content can have different lengths
+
+
+
+💡 Hint (no full solution 👀):
+
+
+Use display: flex
+
+
+You’ll likely need flex-direction: column inside each card
+
+
+Think about pushing the button down 😉

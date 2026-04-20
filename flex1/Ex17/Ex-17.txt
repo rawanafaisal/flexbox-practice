@@ -1,12 +1,33 @@
-تمرين 17
+Exercise 17: Box Sizing Behavior
 
-اعمل 3 boxes في صف.
+Create 3 boxes in a row.
 
-المطلوب:
+🎯 Requirements:
+Each box has:
+width: 200px;
+Add:
+padding
+border
+Observe how the size changes
+🔁 Then:
 
-كل box له width: 200px
-أضف padding و border
-لاحظ الحجم
-ثم أضف:
+Add:
+
+box-sizing: border-box;
+Observe the difference again
+🧠 Goal:
+
+Understand:
+
+How padding و border affects on size
+and how box-sizing Changes the way the size is calculated
+💡 Hint (simple 👀):
+.box{
+	width: 200px;
+	padding: 20px;
+	border: 5px solid black;
+}
+
+then:
+
 box-sizing: border-box
-لاحظ الفرق

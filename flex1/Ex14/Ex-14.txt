@@ -1,9 +1,13 @@
-تمرين 14
+Exercise 14: Margin vs Padding
+Create two boxes stacked vertically.
 
-اعمل مربعين تحت بعض.
+🎯 Requirements:
 
-المطلوب:
 
-استخدم margin-bottom بينهم
-ثم احذفها وجرب padding
-لاحظ الفرق بنفسك
+Add space between them using margin-bottom
+
+
+Then remove it and try using padding instead
+
+
+Observe the difference yourself

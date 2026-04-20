@@ -1,9 +1,8 @@
-تمرين 15
+Exercise 15: Button Sizing with Padding
 
-اعمل button بسيط.
+Create a simple button.
 
-المطلوب:
-
-خلي شكله مريح باستخدام padding
-لا تستخدم width و height
-خل الحجم يطلع من الـ padding
+🎯 Requirements:
+Make the button look comfortable using padding
+Do not use width or height
+Let the size come from the padding

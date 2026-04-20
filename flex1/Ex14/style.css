@@ -1,0 +1,22 @@
+body{
+	background: #eee;
+}
+.box1, .box2{
+	width: 120px;
+	height: 120px;
+	  display: flex;
+    justify-content: center; 
+    align-items: center;     
+color: silver;
+}
+
+.box1{
+	background: rosybrown;
+	/** try each of these two at a time margin vs padding and compare the difference results **/
+	/** margin-bottom: 20px; **/ 
+	/** padding-bottom: 20px; **/
+}
+
+.box2{
+	background: peachpuff;
+}

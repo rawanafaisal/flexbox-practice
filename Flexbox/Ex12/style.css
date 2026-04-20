@@ -1,0 +1,31 @@
+body{ 
+	margin: 0; 
+	height: 100vh; 
+	display: flex; 
+	justify-content: center; 
+	align-items: center; 
+	font-family: 'Poppins', sans-serif; 
+} 
+.container{ 
+	display: flex; 
+	justify-content: center; 
+	align-items: stretch; 
+	background: rosybrown; 
+	box-sizing: border-box; 
+	gap: 12px; 
+	padding: 20px; 
+	border-radius: 12px; 
+	box-shadow: 0 8px 20px rgba(0, 0, 0, 0.08); 
+} 
+.card{ 
+	background: beige; 
+	display: flex; 
+	flex-direction: column; 
+	border-radius: 12px; 
+	box-shadow: 0 8px 20px rgba(0, 0, 0, 0.08); 
+	padding: 16px; 
+	width: 220px; 
+} 
+.card button{ 
+	margin-top: auto; 
+}
