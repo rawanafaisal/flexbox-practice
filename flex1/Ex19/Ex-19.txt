@@ -1,9 +1,19 @@
-تمرين 19
+Exercise 19: Simple Navbar Layout
 
-اعمل navbar بسيط.
+Create a simple navbar.
 
-المطلوب:
+🎯 Requirements:
+Add padding to the navbar itself
+Use gap or margin to space between the items
+Make it look visually comfortable and clean
+💡 Hint (خفيف 👀):
+.navbar{
+	padding: 15px 20px;
+	display: flex;
+	gap: 15px;
+}
+🧠 Goal:
 
-استخدم padding للـ navbar نفسه
-واستخدم gap أو margin بين العناصر
-خله يبدو مريح بصريًا
+Understand:
+
+How spacing (padding + gap) improves layout and UI clarity

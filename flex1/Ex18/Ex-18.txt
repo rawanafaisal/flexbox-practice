@@ -1,10 +1,17 @@
-تمرين 18
+Exercise 18: Controlling Card Size with the Box Model
 
-اعمل card عرضه 250px.
+Create a card with a width of 250px.
 
-المطلوب:
+🎯 Requirements:
+Add:
+padding: 20px;
+border: 3px solid;
+Keep the card size clean and controlled
+Make sure it does not grow bigger than expected
+💡 Hint:
+box-sizing: border-box;
+🧠 Goal:
 
-أضف padding: 20px
-وأضف border: 3px solid
-خله يظل مضبوط وما يكبر بشكل مزعج
-المطلوب هنا تفهم تأثير الـ box model
+Understand:
+
+How to control the size of an element using the box model without it becoming larger than intended

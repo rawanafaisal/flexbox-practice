@@ -1,9 +1,24 @@
-تمرين 20
+Exercise 20: Spacing in a Section
 
-اعمل section فيها عنوان وفقرة.
+Create a section that contains:
 
-المطلوب:
+A title
+A paragraph
+🎯 Requirements:
+Give the section space from the rest of the page using margin
+Add proper spacing inside between the elements
+Avoid making everything look cramped
+💡 Hint (خفيف 👀):
+.section{
+	margin: 40px;
+	padding: 20px;
+}
 
-أعط section مساحة خارجية عن باقي الصفحة باستخدام margin
-وأعط العناصر الداخلية مسافات مناسبة
-لا تخلي كل شيء لازق
+.section p{
+	margin-top: 10px;
+}
+🧠 Goal:
+
+Understand:
+
+How to combine margin (outside) and spacing between elements to create a clean layout
