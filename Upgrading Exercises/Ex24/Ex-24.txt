@@ -1,13 +1,11 @@
-تمرين 24 — Navbar مع wrap
+🧠 Exercise 24 — Navbar with Wrap
 
-اعمل Navbar فيها:
+Create a Navbar that contains:
 
 Logo
 4 links
 Profile image
-
-المطلوب:
-
-الكل في سطر واحد
-عند ضيق العرض اللينكات تلتف
-الشكل يظل مرتب
+🎯 Requirements:
+Everything should be in one row
+When the screen gets smaller, the links should wrap
+The layout should stay clean and organized
