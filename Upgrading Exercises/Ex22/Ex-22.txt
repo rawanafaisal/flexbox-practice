@@ -1,9 +1,22 @@
-تمرين 22 — مقارنة flex: 1
+Exercise 22: Comparing flex: 1
 
-اعمل 3 boxes.
+Create 3 boxes in a row.
 
-المطلوب:
+🎯 Requirements:
+First case:
+Make all boxes:
+flex: 1;
+Second case:
+Make them:
+flex: 1;
+flex: 2;
+flex: 1;
+🧠 Goal:
 
-مرة: كلهم flex: 1
-مرة: 1 / 2 / 1
-لاحظ الفرق
+Understand:
+
+How space is distributed between elements in flexbox
+
+💡 What to observe:
+In the first case → all boxes equal
+In the second case → middle box bigger
