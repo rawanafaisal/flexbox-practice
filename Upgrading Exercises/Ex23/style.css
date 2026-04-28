@@ -1,0 +1,54 @@
+*{
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.logo{
+  font-family: "Playwrite DE SAS", cursive;
+  color: rosybrown;
+  font-size: 24px;
+  font-weight: 600;
+  letter-spacing: 1px;
+}
+.navbar{
+  display: flex;
+  align-items: center;
+  background: beige;
+  padding: 12px 24px;
+}
+
+/* left */
+.logo{
+  font-weight: bold;
+}
+
+/* center */
+.links{
+  display: flex;
+  gap: 20px;
+  margin: 0 auto; /* pushes links to the center */
+}
+
+/* right */
+.btn{
+  background: #8B5E3C;
+  color: white;
+  border: none;
+  padding: 6px 16px;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+.links a{
+  text-decoration: none;
+  color: #8B5E3C;
+  font-weight: 500;
+  padding: 4px 8px;
+  border-radius: 4px;
+  transition: 0.2s;
+}
+
+.links a:hover{
+  background: #f5f1ea;
+  color: #6f472c;
+}
