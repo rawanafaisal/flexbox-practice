@@ -1,16 +1,13 @@
-تمرين 25 — Cards
+Exercise 25: Cards Layout
 
-اعمل 3 cards.
+Create 3 cards.
+Each card contains:
 
-كل card فيها:
-
-عنوان
-وصف
-زر
-
-المطلوب:
-
-نفس العرض
-نفس الارتفاع
-الزر بأسفل الكرت
-داخليًا فيه spacing مرتب
+A title
+A description
+A button
+🎯 Requirements:
+All cards must have the same width
+All cards must have the same height
+The button must stay at the bottom of each card
+Add clean internal spacing

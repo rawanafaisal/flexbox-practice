@@ -1,13 +1,11 @@
-تمرين 23 — Navbar حقيقي
+Exercise 23: Real Navbar
 
-اعمل Navbar فيها:
+Create a navbar that contains:
 
 Logo
 Links
 Button
-
-المطلوب:
-
-اللوجو يسار
-اللينكات بالنص
-الزر يمين
+🎯 Requirements:
+Place the Logo on the left
+Place the Links in the center
+Place the Button on the right
