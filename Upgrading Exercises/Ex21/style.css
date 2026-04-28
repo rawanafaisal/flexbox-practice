@@ -1,0 +1,35 @@
+*{
+	margin: 0;
+	font-family: Georgia, serif;
+	color: rosybrown;
+}
+
+.navbar{
+	display: flex;
+	align-items: center;
+	background: peachpuff;
+	gap: 10px;
+}
+
+h1{
+	color: rosybrown;
+	font-family: Georgia, serif;
+		font-size: 20px;
+}
+
+/* same idea: expands to fill remaining space */
+.search{
+	flex: 1;
+	padding: 8px 12px;
+	border: none;
+	border-radius: 6px;
+	outline: none;
+	background: white;
+		height: 36px;
+
+}
+
+/* small visual improvement (optional, matches your style) */
+.search::placeholder{
+	color: rosybrown;
+}

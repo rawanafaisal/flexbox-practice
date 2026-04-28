@@ -1,12 +1,21 @@
-تمرين 21 — flex: 1
+Exercise 21: flex: 1
 
-اعمل صف فيه:
+Create a row with:
 
 Logo
 Search
 Profile
+🎯 Requirements:
+Keep Logo and Profile at their natural size
+Make Search take all the remaining space
+💡 Hint:
 
-المطلوب:
+Use:
 
-Logo و Profile بحجمهم الطبيعي
-Search يأخذ كل المساحة الباقية
+flex: 1;
+
+on the Search element.
+
+🧠 Goal:
+
+Understand how one element can expand and fill the remaining space inside a flex container.
